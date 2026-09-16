@@ -15,3 +15,8 @@ A sales analytics dashboard will be introduced, featuring sales trends, identifi
 ## 🗄️ SQL Data Verification
 To verify the metrics displayed on the dashboard, an additional SQL queries. You can find the query on link:
 https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1shomework-dovbysh!2sme-central1!3s8996ad69-fda5-436b-979a-1fb95660b6c3!2e1
+
+## 🚀 How to View the Project
+1. Download the `Sales Report.pbix` file from this repository.
+2. Open the file using **Power BI Desktop**.
+3. Use the link to view the report directly:https://docs.google.com/document/d/1bVtUjQ-5LO6tlNlv3qVP64SADfvdl-ko/edit?usp=sharing&ouid=114673630093720343947&rtpof=true&sd=true
