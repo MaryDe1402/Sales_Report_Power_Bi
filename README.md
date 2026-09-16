@@ -1,4 +1,4 @@
-# sales_report_power_bi
+# Sales_Report_Power_Bi
 A sales analytics dashboard will be introduced, featuring sales trends, identification of top clients and peak sales days, and product category performance. Verification for an additional SQL query has been completed.
 <img width="755" height="395" alt="image" src="https://github.com/user-attachments/assets/7e4252b3-1339-4133-8fbb-070287a3bd5a" />
 
